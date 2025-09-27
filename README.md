@@ -18,6 +18,7 @@ TI MSP430 LaunchPad series (e.g., MSP-EXP430G2)
 TI CC3200 SimpleLink Wi-Fi LaunchPad (CC3200-LAUNCHXL)
 
 ✨ Key Features
+
 Beginner-Friendly: Clear, well-commented code perfect for learning.
 
 Practical Examples: Code snippets that solve real-world problems.
@@ -29,6 +30,7 @@ IoT Ready: Includes examples for HTTP clients, web servers, and MQTT on the CC32
 Easy to Use: Designed to work out-of-the-box with the Energia IDE.
 
 🚀 Getting Started
+
 Follow these steps to get the example projects running on your LaunchPad.
 
 Prerequisites
@@ -44,6 +46,7 @@ Software:
 Energia IDE: Download and install the latest version of Energia from the official website.
 
 Board Drivers: Ensure you have the necessary USB drivers for your LaunchPad installed, which usually come with the Energia installation.
+
 Energia IDE: Download and install the latest version of Energia from the official website.
 
 Board Drivers: Ensure you have the necessary USB drivers for your LaunchPad installed, which usually come with the Energia installation.
