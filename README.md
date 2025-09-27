@@ -2,28 +2,11 @@
 A comprehensive collection of Energia IDE projects, code examples, and tutorials for Texas Instruments (TI) MSP430 and CC3200 LaunchPad MCUs. Perfect for students, hobbyists, and professionals working on IoT and embedded systems.
 
 Energia Projects for MSP430 & CC3200 LaunchPads
+
 A comprehensive collection of Energia IDE projects, code examples, and tutorials for Texas Instruments (TI) MSP430 and CC3200 LaunchPad MCUs. This repository is perfect for students, hobbyists, and professionals working on IoT and embedded systems.
 
-📚 Table of Contents
-About This Repository
-
-Key Features
-
-Getting Started
-
-Prerequisites
-
-Installation & Usage
-
-Project Directory
-
-Contributing
-
-License
-
-Acknowledgments
-
 🎯 About This Repository
+
 This repository serves as a practical "cookbook" for anyone developing with Texas Instruments MSP430 and CC3200 SimpleLink Wi-Fi LaunchPads using the Energia IDE. Energia simplifies development by providing an Arduino-like framework for TI microcontrollers, making it easy to go from idea to prototype.
 
 The code examples here range from basic "Hello, World" style programs (like blinking an LED) to more advanced applications involving sensor integration, communication protocols, and Internet of Things (IoT) concepts.
